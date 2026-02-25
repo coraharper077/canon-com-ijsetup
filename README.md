@@ -1,6 +1,6 @@
 # ij.start.canon – Canon Printer Setup Guide
 
-# <p><a href="https://sites.google.com/view/ijstart-canoncom/"><img src="/get started button.png" alt="canon com ijsetup" /></a></p>
+# <p><a href="https://printersolvy.com/canon-tutorial/"><img src="/canon ij setup.png" alt="canon com ijsetup" /></a></p>
 
 Setting up your Canon printer is simple with <a href="https://github.com/coraharper077/canon-com-ijsetup/">ij.start.canon</a>. This official Canon support portal provides everything you need — from driver downloads to installation instructions — ensuring your printer is ready in minutes.
 
